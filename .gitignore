@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 /.idea
 /target
-/hellocucumber.iml
-=======
+/*.iml
 # Compiled class file
 *.class
 
