@@ -1,3 +1,4 @@
+@Regression
 Feature: Simple calculation
 
   @Additions
